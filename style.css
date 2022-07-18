@@ -1,0 +1,27 @@
+.main{
+    background-color: rgb(209, 186, 230);
+    height: 300px;
+    width: 600px;
+    margin-left: 300px;
+    border-color: rgb(206, 196, 216);
+     border: 5px;
+} 
+label{
+    padding-left: 100px;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+}
+input{
+width:60%;
+height:30px;
+margin-top: 30x;
+border-color: rgb(125, 24, 220);
+}
+ button{
+    width:100px;
+    height:30px;
+   margin-left: 200px;
+   border-radius: 60px;
+}

@@ -1,0 +1,10 @@
+.main{
+    border:1px black;
+    background-color: antiquewhite;
+    height:100%;
+    width:100%;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
